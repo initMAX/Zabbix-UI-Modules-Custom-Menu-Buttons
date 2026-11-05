@@ -1,0 +1,9 @@
+01-overview.png:
+  en: "Custom links appear directly inside the selected Zabbix menu, while administrators manage every destination from one overview."
+  cs: "Vlastní odkazy se zobrazí přímo ve vybrané nabídce Zabbixu a správce spravuje všechny cíle z jednoho přehledu."
+02-form.png:
+  en: "Create a menu button with its label, URL, icon, target window and exact placement in the existing navigation tree."
+  cs: "Vytvořte tlačítko nabídky s názvem, URL, ikonou, cílovým oknem a přesným umístěním ve stávající navigaci."
+03-icons.png:
+  en: "Choose a clear visual marker from the built-in icon library so every custom destination is easy to recognize."
+  cs: "Vyberte přehlednou značku z vestavěné knihovny ikon, aby byl každý vlastní cíl snadno rozpoznatelný."
